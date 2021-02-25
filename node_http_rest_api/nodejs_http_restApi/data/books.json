@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 1, 
+        "title" : "Richard's Book", 
+        "author" : "Richard Parkar", 
+        "date" : "1/Jan/2010"
+    },
+    {
+        "id" : 2, 
+        "title" : "Nimmu's Book", 
+        "author" : "Naman Gupta", 
+        "date" : "1/Jan/2020"
+    },
+    {
+        "id" : 3, 
+        "title" : "KDG's Book", 
+        "author" : "Kausik Dasgupta", 
+        "date" : "1/Jan/2009"
+    }
+    
+]
