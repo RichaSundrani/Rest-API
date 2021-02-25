@@ -4,8 +4,7 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 require('dotenv/config')
-//DB_CONNECTION=mongodb+srv://test:9876@restapi.pvpfp.mongodb.net/<dbname>?retryWrites=true&w=majority
-//mongodb://testboy:rhino94@ds155396.mlab.com:55396/rest
+// DB connection
 
 // Everytime run body parser and parse it to json - middleware
 app.use(cors());
